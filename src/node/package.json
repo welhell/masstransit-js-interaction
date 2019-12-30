@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node masstransit interaction ",
+  "main": "Yes",
+  "scripts": {
+    "start": "node ./main"
+  },
+  "author": "welhell",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "uuid": "^3.3.3"
+  }
+}
